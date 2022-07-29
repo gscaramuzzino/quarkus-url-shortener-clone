@@ -3,6 +3,10 @@
 URL shortening is the translation of a long Uniform Resource Locator (URL) into an abbreviated alternative that redirects to the longer URL.
 The original URL shortening service was TinyURL.
 
+Follow the video tutorial:
+
+[![Alt text](https://user-images.githubusercontent.com/8536722/110162186-aa6eab00-7dee-11eb-8289-bd3cf6c13a11.png)](https://youtu.be/zs8aN5g0lr0 "Click to play on Youtube.com")
+
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
 ## Running the application in dev mode
