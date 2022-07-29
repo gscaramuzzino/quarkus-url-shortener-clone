@@ -1,6 +1,7 @@
-# quarkus-url-shortener-clone Project
+# Quarkus URL Shortener
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+URL shortening is the translation of a long Uniform Resource Locator (URL) into an abbreviated alternative that redirects to the longer URL.
+The original URL shortening service was TinyURL.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
